@@ -1,1 +1,1 @@
-# school_mana
+# school_management_api
